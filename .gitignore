@@ -5,3 +5,6 @@ png-train-dataset*
 png-val-dataset*
 
 .venv/
+
+# Exceds 100MB and cannot be uploaded to github
+Custom2DCNN_v1_128.pth 
